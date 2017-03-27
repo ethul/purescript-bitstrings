@@ -1,0 +1,13 @@
+{
+  "name": "purescript-bitstrings",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "psc": "PATH=$PURESCRIPT_0_10_PATH:$PATH psc 'src/**/*.purs' 'test/**/*.purs' 'bower_components/purescript-*/src/**/*.purs' 2>&1",
+    "pscid": "PATH=$PURESCRIPT_0_10_PATH:$PATH pscid"
+  },
+  "devDependencies": {
+    "pscid": "^1.12.1"
+  }
+}

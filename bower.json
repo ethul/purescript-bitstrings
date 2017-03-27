@@ -1,0 +1,12 @@
+{
+  "name": "purescript-bitstrings",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethul/purescript-bitstrings.git"
+  }
+}
