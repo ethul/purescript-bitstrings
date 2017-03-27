@@ -8,5 +8,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/ethul/purescript-bitstrings.git"
+  },
+  "dependencies": {
+    "purescript-maybe": "^2.1.1",
+    "purescript-arrays": "^3.2.1",
+    "purescript-integers": "^2.1.1",
+    "purescript-generics": "^3.3.0",
+    "purescript-generics-rep": "^4.1.0"
   }
 }
